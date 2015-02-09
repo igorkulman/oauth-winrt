@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("OAuth.WinRT")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A Windows Phone 8. / Windows 8.1 port of the OAuth Sample Library for C# from oauth.googlecode.com")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Igor Kulman")]
 [assembly: AssemblyProduct("OAuth.WinRT")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
